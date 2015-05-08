@@ -1,0 +1,21 @@
+﻿Build started 10/3/2015 3:47:49 PM.
+     1>Project "C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Main\Main.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Release\Main.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Release\Main.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Release\Main.lib" /MACHINE:X86 /SAFESEH Release\Main.res
+         Release\Algorithm.obj
+         Release\HuntKill.obj
+         Release\IOFile.obj
+         Release\MakeWindow.obj
+         Release\Maze.obj
+         Release\RecursiveBack.obj
+         Release\RecursiveBonus.obj
+         Generating code
+     1>c:\users\loonx\desktop\trimster 2\ict 1009 - oop\main -- file oop done - merging yy\main\makewindow.cpp(251): warning C4715: 'DlgProc' : not all control paths return a value
+     1>c:\users\loonx\desktop\trimster 2\ict 1009 - oop\main -- file oop done - merging yy\main\iofile.cpp(54): warning C4715: 'IOFile::FileOpen' : not all control paths return a value
+         Finished generating code
+         Main.vcxproj -> C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Release\Main.exe
+     1>Done Building Project "C:\Users\LoonX\Desktop\Trimster 2\ICT 1009 - OOP\Main -- FILE OOP DONE - Merging YY\Main\Main.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.34

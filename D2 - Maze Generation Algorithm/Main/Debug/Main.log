@@ -1,0 +1,82 @@
+﻿Build started 17-Mar-15 4:03:55 PM.
+     1>Project "C:\Users\darkdanito\Desktop\D2 Final\Main\Main.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Algorithm.cpp HuntKill.cpp IOFile.cpp Main.cpp Maze.cpp RecursiveBack.cpp RecursiveBonus.cpp
+         RecursiveBonus.cpp
+     1>c:\users\darkdanito\desktop\d2 final\main\recursivebonus.cpp(103): warning C4018: '>=' : signed/unsigned mismatch
+         RecursiveBack.cpp
+     1>c:\users\darkdanito\desktop\d2 final\main\recursiveback.cpp(108): warning C4018: '>=' : signed/unsigned mismatch
+         Maze.cpp
+         Main.cpp
+         IOFile.cpp
+     1>c:\users\darkdanito\desktop\d2 final\main\iofile.cpp(23): warning C4101: 'hf' : unreferenced local variable
+     1>c:\users\darkdanito\desktop\d2 final\main\iofile.cpp(49): warning C4101: 'hf' : unreferenced local variable
+         HuntKill.cpp
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(13): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(24): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(26): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(41): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(78): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(80): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(82): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(101): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(111): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(128): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(134): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(136): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(138): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(150): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(159): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(191): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(201): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(234): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(255): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(351): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(383): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(404): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(431): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(435): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(437): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(439): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(464): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(474): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(491): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(496): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(498): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(502): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(507): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(526): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(535): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(572): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(598): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(636): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(674): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(712): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\darkdanito\desktop\d2 final\main\huntkill.cpp(735): warning C4018: '<' : signed/unsigned mismatch
+         Algorithm.cpp
+         Generating Code...
+     1>c:\users\darkdanito\desktop\d2 final\main\iofile.cpp(45): warning C4715: 'IOFile::FileOpen' : not all control paths return a value
+     1>c:\users\darkdanito\desktop\d2 final\main\main.cpp(252): warning C4715: 'DlgProc' : not all control paths return a value
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\Main.res" Main.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\darkdanito\Desktop\D2 Final\Debug\Main.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\darkdanito\Desktop\D2 Final\Debug\Main.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\darkdanito\Desktop\D2 Final\Debug\Main.lib" /MACHINE:X86 Debug\Main.res
+         Debug\Algorithm.obj
+         Debug\HuntKill.obj
+         Debug\IOFile.obj
+         Debug\Main.obj
+         Debug\Maze.obj
+         Debug\RecursiveBack.obj
+         Debug\RecursiveBonus.obj
+         LINK : C:\Users\darkdanito\Desktop\D2 Final\Debug\Main.exe not found or not built by the last incremental link; performing full link
+         Main.vcxproj -> C:\Users\darkdanito\Desktop\D2 Final\Debug\Main.exe
+     1>Done Building Project "C:\Users\darkdanito\Desktop\D2 Final\Main\Main.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.94
